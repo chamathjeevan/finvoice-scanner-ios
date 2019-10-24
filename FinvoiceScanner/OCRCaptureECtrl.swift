@@ -18,7 +18,7 @@ extension ViewController:AVCaptureVideoDataOutputSampleBufferDelegate {
             
             bufferedPages.insert(page)
             self.numberOfScans += 1
-            if(self.numberOfScans > 8){
+            if(self.numberOfScans > 7){
                 analiseOCRBatch(pages: bufferedPages)
             }
         }
