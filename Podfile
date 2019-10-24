@@ -6,5 +6,5 @@ target 'FinvoiceScanner' do
   use_frameworks!
 
   # Pods for FinvoiceScanner
-  pod 'Finvoice', '0.1.15'
+  pod 'Finvoice', '0.1.14'
 end
