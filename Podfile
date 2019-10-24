@@ -1,4 +1,4 @@
-source 'https://github.com/nicknamed-ab/finvoice-cocoapods-spec.git'
+source 'https://github.com/chamathjeevan/finvoice-cocoapods-spec.git'
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '12.0'
 target 'FinvoiceScanner' do
