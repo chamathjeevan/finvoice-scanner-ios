@@ -1,0 +1,549 @@
+Pods/Manifest.lock
+Pods/Finvoice/README.md
+Pods/Finvoice/Product/Finvoice.framework/Finvoice
+Pods/Finvoice/Product/Finvoice.framework/GoogleService-Info.plist
+Pods/Finvoice/Product/Finvoice.framework/Info.plist
+Pods/Finvoice/Product/Finvoice.framework/GoogleMVTextDetectorResources.bundle/Info.plist
+Pods/Finvoice/Product/Finvoice.framework/GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg
+Pods/Finvoice/Product/Finvoice.framework/GoogleMVTextDetectorResources.bundle/rpn_lstm_engine_tflite_latin.bincfg
+Pods/Finvoice/Product/Finvoice.framework/GoogleMVTextDetectorResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite
+Pods/Finvoice/Product/Finvoice.framework/GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg
+Pods/Finvoice/Product/Finvoice.framework/GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst
+Pods/Finvoice/Product/Finvoice.framework/GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model
+Pods/Finvoice/Product/Finvoice.framework/GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIConstants.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIError.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIErrorCode.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIInvoicePage.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIInvoiceScanner.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/Finvoice-Swift.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/Finvoice.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIPrediction.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIResult.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIWord.h
+Pods/Finvoice/Product/Finvoice.framework/Headers/FIWordRectangle.h
+Pods/Finvoice/Product/Finvoice.framework/models/account/Bankgiro_NeuralNetwork.tflite
+Pods/Finvoice/Product/Finvoice.framework/models/amount/Amount_NeuralNetwork.tflite
+Pods/Finvoice/Product/Finvoice.framework/models/date/DueDate_NeuralNetwork.tflite
+Pods/Finvoice/Product/Finvoice.framework/models/reference/OCR_NeuralNetwork.tflite
+Pods/Finvoice/Product/Finvoice.framework/Modules/module.modulemap
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/arm.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/arm.swiftmodule
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/arm64-apple-ios.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/arm64-apple-ios.swiftmodule
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/arm64.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/arm64.swiftmodule
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/armv7-apple-ios.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/armv7-apple-ios.swiftmodule
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/armv7.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/armv7.swiftmodule
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/i386-apple-ios-simulator.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/i386-apple-ios-simulator.swiftmodule
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/i386.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/i386.swiftmodule
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/x86_64-apple-ios-simulator.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/x86_64-apple-ios-simulator.swiftmodule
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/x86_64.swiftdoc
+Pods/Finvoice/Product/Finvoice.framework/Modules/Finvoice.swiftmodule/x86_64.swiftmodule
+Pods/Firebase/LICENSE
+Pods/Firebase/README.md
+Pods/Firebase/CoreOnly/Sources/Firebase.h
+Pods/Firebase/CoreOnly/Sources/module.modulemap
+Pods/FirebaseCore/LICENSE
+Pods/FirebaseCore/README.md
+Pods/FirebaseCore/Firebase/Core/FIRAnalyticsConfiguration.m
+Pods/FirebaseCore/Firebase/Core/FIRApp.m
+Pods/FirebaseCore/Firebase/Core/FIRAppAssociationRegistration.m
+Pods/FirebaseCore/Firebase/Core/FIRBundleUtil.m
+Pods/FirebaseCore/Firebase/Core/FIRComponent.m
+Pods/FirebaseCore/Firebase/Core/FIRComponentContainer.m
+Pods/FirebaseCore/Firebase/Core/FIRComponentType.m
+Pods/FirebaseCore/Firebase/Core/FIRConfiguration.m
+Pods/FirebaseCore/Firebase/Core/FIRCoreDiagnosticsConnector.m
+Pods/FirebaseCore/Firebase/Core/FIRDependency.m
+Pods/FirebaseCore/Firebase/Core/FIRDiagnosticsData.m
+Pods/FirebaseCore/Firebase/Core/FIRErrors.m
+Pods/FirebaseCore/Firebase/Core/FIRLogger.m
+Pods/FirebaseCore/Firebase/Core/FIROptions.m
+Pods/FirebaseCore/Firebase/Core/FIRVersion.m
+Pods/FirebaseCore/Firebase/Core/Private/FIRAnalyticsConfiguration.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRAppAssociationRegistration.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRComponent.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainer.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainerInternal.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRComponentType.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRConfigurationInternal.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRCoreDiagnosticsConnector.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRDependency.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRDiagnosticsData.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRLibrary.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h
+Pods/FirebaseCore/Firebase/Core/Private/FIROptionsInternal.h
+Pods/FirebaseCore/Firebase/Core/Private/FIRVersion.h
+Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h
+Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h
+Pods/FirebaseCore/Firebase/Core/Public/FirebaseCore.h
+Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h
+Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h
+Pods/FirebaseCoreDiagnostics/LICENSE
+Pods/FirebaseCoreDiagnostics/README.md
+Pods/FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/FIRCoreDiagnostics.m
+Pods/FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/FIRCoreDiagnosticsDateFileStorage.h
+Pods/FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/FIRCoreDiagnosticsDateFileStorage.m
+Pods/FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/Protogen/nanopb/firebasecore.nanopb.c
+Pods/FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/Protogen/nanopb/firebasecore.nanopb.h
+Pods/FirebaseCoreDiagnosticsInterop/LICENSE
+Pods/FirebaseCoreDiagnosticsInterop/README.md
+Pods/FirebaseCoreDiagnosticsInterop/Interop/CoreDiagnostics/Public/FIRCoreDiagnosticsData.h
+Pods/FirebaseCoreDiagnosticsInterop/Interop/CoreDiagnostics/Public/FIRCoreDiagnosticsInterop.h
+Pods/FirebaseInstanceID/LICENSE
+Pods/FirebaseInstanceID/README.md
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID+Private.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthKeyChain.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthKeyChain.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDBackupExcludedPlist.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDBackupExcludedPlist.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences+Internal.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences+Internal.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences_Private.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinStore.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinStore.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDDefines.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeychain.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeychain.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPair.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPair.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairStore.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairStore.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairUtilities.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairUtilities.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStringEncoding.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStringEncoding.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenDeleteOperation.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenDeleteOperation.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenFetchOperation.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenFetchOperation.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenOperation+Private.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenOperation.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenOperation.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenStore.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenStore.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDURLQueryItem.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDURLQueryItem.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.m
+Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID+Private.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID_Private.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceIDCheckinPreferences.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FirebaseInstanceID.h
+Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h
+Pods/FirebaseMLCommon/CHANGELOG.md
+Pods/FirebaseMLCommon/README.md
+Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/FirebaseMLCommon
+Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FirebaseMLCommon.h
+Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRLocalModel.h
+Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRModelDownloadConditions.h
+Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRModelDownloadNotifications.h
+Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRModelManager.h
+Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRRemoteModel.h
+Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Modules/module.modulemap
+Pods/FirebaseMLVision/CHANGELOG.md
+Pods/FirebaseMLVision/README.md
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/FirebaseMLVision
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FirebaseMLVision.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVision.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionBarcode.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionBarcodeDetector.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionBarcodeDetectorOptions.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudDetectorOptions.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudDocumentTextRecognizerOptions.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudImageLabelerOptions.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudLandmark.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudLandmarkDetector.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudTextRecognizerOptions.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentText.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextBlock.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextParagraph.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextRecognizer.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextSymbol.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextWord.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFace.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFaceContour.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFaceDetector.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFaceDetectorOptions.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFaceLandmark.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionImage.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionImageLabel.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionImageLabeler.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionImageMetadata.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionLatitudeLongitude.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionOnDeviceImageLabelerOptions.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionPoint.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionText.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextBlock.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextElement.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextLine.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextRecognizedBreak.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextRecognizedLanguage.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextRecognizer.h
+Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Modules/module.modulemap
+Pods/FirebaseMLVisionTextModel/Frameworks/FirebaseMLVisionTextModel.framework/FirebaseMLVisionTextModel
+Pods/FirebaseMLVisionTextModel/Frameworks/FirebaseMLVisionTextModel.framework/Modules/module.modulemap
+Pods/FirebaseMLVisionTextModel/Resources/GoogleMVTextDetectorResources/region_proposal_text_detector_tflite_gray_quantized.bincfg
+Pods/FirebaseMLVisionTextModel/Resources/GoogleMVTextDetectorResources/rpn_lstm_engine_tflite_latin.bincfg
+Pods/FirebaseMLVisionTextModel/Resources/GoogleMVTextDetectorResources/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite
+Pods/FirebaseMLVisionTextModel/Resources/GoogleMVTextDetectorResources/tflite_lstm_recognizer_latin_0.3.bincfg
+Pods/FirebaseMLVisionTextModel/Resources/GoogleMVTextDetectorResources/tflite_lstm_recognizer_latin_0.3.class_lst
+Pods/FirebaseMLVisionTextModel/Resources/GoogleMVTextDetectorResources/tflite_lstm_recognizer_latin_0.3.conv_model
+Pods/FirebaseMLVisionTextModel/Resources/GoogleMVTextDetectorResources/tflite_lstm_recognizer_latin_0.3.lstm_model
+Pods/GoogleAPIClientForREST/LICENSE
+Pods/GoogleAPIClientForREST/README.md
+Pods/GoogleAPIClientForREST/Source/GTLRDefines.h
+Pods/GoogleAPIClientForREST/Source/GeneratedServices/Vision/GTLRVision.h
+Pods/GoogleAPIClientForREST/Source/GeneratedServices/Vision/GTLRVisionObjects.h
+Pods/GoogleAPIClientForREST/Source/GeneratedServices/Vision/GTLRVisionObjects.m
+Pods/GoogleAPIClientForREST/Source/GeneratedServices/Vision/GTLRVisionQuery.h
+Pods/GoogleAPIClientForREST/Source/GeneratedServices/Vision/GTLRVisionQuery.m
+Pods/GoogleAPIClientForREST/Source/GeneratedServices/Vision/GTLRVisionService.h
+Pods/GoogleAPIClientForREST/Source/GeneratedServices/Vision/GTLRVisionService.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRBatchQuery.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRBatchQuery.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRBatchResult.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRBatchResult.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRDateTime.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRDateTime.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRDuration.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRDuration.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRErrorObject.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRErrorObject.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRObject.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRObject.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRQuery.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRQuery.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRRuntimeCommon.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRRuntimeCommon.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRService.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRService.m
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRUploadParameters.h
+Pods/GoogleAPIClientForREST/Source/Objects/GTLRUploadParameters.m
+Pods/GoogleAPIClientForREST/Source/Utilities/GTLRBase64.h
+Pods/GoogleAPIClientForREST/Source/Utilities/GTLRBase64.m
+Pods/GoogleAPIClientForREST/Source/Utilities/GTLRFramework.h
+Pods/GoogleAPIClientForREST/Source/Utilities/GTLRFramework.m
+Pods/GoogleAPIClientForREST/Source/Utilities/GTLRURITemplate.h
+Pods/GoogleAPIClientForREST/Source/Utilities/GTLRURITemplate.m
+Pods/GoogleAPIClientForREST/Source/Utilities/GTLRUtilities.h
+Pods/GoogleAPIClientForREST/Source/Utilities/GTLRUtilities.m
+Pods/GoogleDataTransport/LICENSE
+Pods/GoogleDataTransport/README.md
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORAssert.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORClock.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORConsoleLogger.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORDataFuture.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCOREvent.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORLifecycle.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORPlatform.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORReachability.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORRegistrar.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORStorage.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORStoredEvent.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORTransformer.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORTransport.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORUploadCoordinator.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORUploadPackage.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCOREvent_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORReachability.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORReachability_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORRegistrar_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORStorage.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORStorage_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransformer.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransformer_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransport_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadCoordinator.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadPackage_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORAssert.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORClock.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORConsoleLogger.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORDataFuture.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCOREvent.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCOREventDataObject.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCOREventTransformer.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORLifecycle.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORPlatform.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORPrioritizer.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORRegistrar.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORStoredEvent.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORTargets.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORTransport.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORUploader.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORUploadPackage.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport.h
+Pods/GoogleDataTransportCCTSupport/LICENSE
+Pods/GoogleDataTransportCCTSupport/README.md
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTNanopbHelpers.m
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTPrioritizer.m
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTUploader.m
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTFLLPrioritizer.m
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTFLLUploader.m
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTNanopbHelpers.h
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTPrioritizer.h
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTUploader.h
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTFLLPrioritizer.h
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTFLLUploader.h
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.c
+Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.h
+Pods/GoogleToolboxForMac/GTMDefines.h
+Pods/GoogleToolboxForMac/LICENSE
+Pods/GoogleToolboxForMac/README.md
+Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h
+Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h
+Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h
+Pods/GoogleToolboxForMac/Foundation/GTMLogger.h
+Pods/GoogleToolboxForMac/Foundation/GTMLogger.m
+Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h
+Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.m
+Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h
+Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.m
+Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h
+Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.m
+Pods/GoogleUtilities/LICENSE
+Pods/GoogleUtilities/README.md
+Pods/GoogleUtilities/GoogleUtilities/Environment/third_party/GULAppEnvironmentUtil.h
+Pods/GoogleUtilities/GoogleUtilities/Environment/third_party/GULAppEnvironmentUtil.m
+Pods/GoogleUtilities/GoogleUtilities/Logger/GULLogger.m
+Pods/GoogleUtilities/GoogleUtilities/Logger/Private/GULLogger.h
+Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GULLoggerLevel.h
+Pods/GoogleUtilities/GoogleUtilities/UserDefaults/GULUserDefaults.m
+Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Private/GULUserDefaults.h
+Pods/GTMSessionFetcher/LICENSE
+Pods/GTMSessionFetcher/README.md
+Pods/GTMSessionFetcher/Source/GTMGatherInputStream.h
+Pods/GTMSessionFetcher/Source/GTMGatherInputStream.m
+Pods/GTMSessionFetcher/Source/GTMMIMEDocument.h
+Pods/GTMSessionFetcher/Source/GTMMIMEDocument.m
+Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.h
+Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.m
+Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h
+Pods/GTMSessionFetcher/Source/GTMSessionFetcher.m
+Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h
+Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.m
+Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h
+Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.m
+Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h
+Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.m
+Pods/Headers/Private/Firebase/Firebase.h
+Pods/Headers/Private/FirebaseCoreDiagnosticsInterop/FIRCoreDiagnosticsData.h
+Pods/Headers/Private/FirebaseCoreDiagnosticsInterop/FIRCoreDiagnosticsInterop.h
+Pods/Headers/Public/Firebase/Firebase.h
+Pods/Headers/Public/FirebaseCoreDiagnosticsInterop/FIRCoreDiagnosticsData.h
+Pods/Headers/Public/FirebaseCoreDiagnosticsInterop/FIRCoreDiagnosticsInterop.h
+Pods/nanopb/LICENSE.txt
+Pods/nanopb/pb.h
+Pods/nanopb/pb_common.c
+Pods/nanopb/pb_common.h
+Pods/nanopb/pb_decode.c
+Pods/nanopb/pb_decode.h
+Pods/nanopb/pb_encode.c
+Pods/nanopb/pb_encode.h
+Pods/nanopb/README.md
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Finvoice.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Firebase.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/FirebaseCore.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/FirebaseCoreDiagnostics.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/FirebaseCoreDiagnosticsInterop.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/FirebaseInstanceID.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/FirebaseMLCommon.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/FirebaseMLVision.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/FirebaseMLVisionTextModel-GoogleMVTextDetectorResources.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/FirebaseMLVisionTextModel.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/GoogleAPIClientForREST.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/GoogleDataTransport.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/GoogleDataTransportCCTSupport.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/GoogleToolboxForMac.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/GoogleUtilities.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/GTMSessionFetcher.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/nanopb.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Pods-FinvoiceScanner.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Protobuf.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/Protobuf/LICENSE
+Pods/Protobuf/README.md
+Pods/Protobuf/objectivec/GPBArray.h
+Pods/Protobuf/objectivec/GPBArray.m
+Pods/Protobuf/objectivec/GPBArray_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBBootstrap.h
+Pods/Protobuf/objectivec/GPBCodedInputStream.h
+Pods/Protobuf/objectivec/GPBCodedInputStream.m
+Pods/Protobuf/objectivec/GPBCodedInputStream_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBCodedOutputStream.h
+Pods/Protobuf/objectivec/GPBCodedOutputStream.m
+Pods/Protobuf/objectivec/GPBCodedOutputStream_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBDescriptor.h
+Pods/Protobuf/objectivec/GPBDescriptor.m
+Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBDictionary.h
+Pods/Protobuf/objectivec/GPBDictionary.m
+Pods/Protobuf/objectivec/GPBDictionary_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBExtensionInternals.h
+Pods/Protobuf/objectivec/GPBExtensionInternals.m
+Pods/Protobuf/objectivec/GPBExtensionRegistry.h
+Pods/Protobuf/objectivec/GPBExtensionRegistry.m
+Pods/Protobuf/objectivec/GPBMessage.h
+Pods/Protobuf/objectivec/GPBMessage.m
+Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBProtocolBuffers.h
+Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h
+Pods/Protobuf/objectivec/GPBRootObject.h
+Pods/Protobuf/objectivec/GPBRootObject.m
+Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBRuntimeTypes.h
+Pods/Protobuf/objectivec/GPBUnknownField.h
+Pods/Protobuf/objectivec/GPBUnknownField.m
+Pods/Protobuf/objectivec/GPBUnknownField_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBUnknownFieldSet.h
+Pods/Protobuf/objectivec/GPBUnknownFieldSet.m
+Pods/Protobuf/objectivec/GPBUnknownFieldSet_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBUtilities.h
+Pods/Protobuf/objectivec/GPBUtilities.m
+Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBWellKnownTypes.h
+Pods/Protobuf/objectivec/GPBWellKnownTypes.m
+Pods/Protobuf/objectivec/GPBWireFormat.h
+Pods/Protobuf/objectivec/GPBWireFormat.m
+Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.m
+Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.m
+Pods/Target Support Files/Finvoice/Finvoice.xcconfig
+Pods/Target Support Files/Firebase/Firebase.xcconfig
+Pods/Target Support Files/FirebaseCore/FirebaseCore-dummy.m
+Pods/Target Support Files/FirebaseCore/FirebaseCore-Info.plist
+Pods/Target Support Files/FirebaseCore/FirebaseCore-umbrella.h
+Pods/Target Support Files/FirebaseCore/FirebaseCore.modulemap
+Pods/Target Support Files/FirebaseCore/FirebaseCore.xcconfig
+Pods/Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics-dummy.m
+Pods/Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics-Info.plist
+Pods/Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics-umbrella.h
+Pods/Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.modulemap
+Pods/Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.xcconfig
+Pods/Target Support Files/FirebaseCoreDiagnosticsInterop/FirebaseCoreDiagnosticsInterop.xcconfig
+Pods/Target Support Files/FirebaseInstanceID/FirebaseInstanceID-dummy.m
+Pods/Target Support Files/FirebaseInstanceID/FirebaseInstanceID-Info.plist
+Pods/Target Support Files/FirebaseInstanceID/FirebaseInstanceID-umbrella.h
+Pods/Target Support Files/FirebaseInstanceID/FirebaseInstanceID.modulemap
+Pods/Target Support Files/FirebaseInstanceID/FirebaseInstanceID.xcconfig
+Pods/Target Support Files/FirebaseMLCommon/FirebaseMLCommon.xcconfig
+Pods/Target Support Files/FirebaseMLVision/FirebaseMLVision.xcconfig
+Pods/Target Support Files/FirebaseMLVisionTextModel/FirebaseMLVisionTextModel.xcconfig
+Pods/Target Support Files/FirebaseMLVisionTextModel/ResourceBundle-GoogleMVTextDetectorResources-FirebaseMLVisionTextModel-Info.plist
+Pods/Target Support Files/GoogleAPIClientForREST/GoogleAPIClientForREST-dummy.m
+Pods/Target Support Files/GoogleAPIClientForREST/GoogleAPIClientForREST-Info.plist
+Pods/Target Support Files/GoogleAPIClientForREST/GoogleAPIClientForREST-prefix.pch
+Pods/Target Support Files/GoogleAPIClientForREST/GoogleAPIClientForREST-umbrella.h
+Pods/Target Support Files/GoogleAPIClientForREST/GoogleAPIClientForREST.modulemap
+Pods/Target Support Files/GoogleAPIClientForREST/GoogleAPIClientForREST.xcconfig
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport-dummy.m
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport-Info.plist
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport-umbrella.h
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport.modulemap
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport.xcconfig
+Pods/Target Support Files/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport-dummy.m
+Pods/Target Support Files/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport-Info.plist
+Pods/Target Support Files/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport-umbrella.h
+Pods/Target Support Files/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport.modulemap
+Pods/Target Support Files/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport.xcconfig
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-dummy.m
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-Info.plist
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-prefix.pch
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.modulemap
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.xcconfig
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities-dummy.m
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities-Info.plist
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities-prefix.pch
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities-umbrella.h
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities.modulemap
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities.xcconfig
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-dummy.m
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-Info.plist
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-prefix.pch
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.modulemap
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.xcconfig
+Pods/Target Support Files/nanopb/nanopb-dummy.m
+Pods/Target Support Files/nanopb/nanopb-Info.plist
+Pods/Target Support Files/nanopb/nanopb-prefix.pch
+Pods/Target Support Files/nanopb/nanopb-umbrella.h
+Pods/Target Support Files/nanopb/nanopb.modulemap
+Pods/Target Support Files/nanopb/nanopb.xcconfig
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-acknowledgements.markdown
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-acknowledgements.plist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-dummy.m
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-frameworks.sh
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-Info.plist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-resources-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-resources-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-resources-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-resources-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-resources.sh
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner-umbrella.h
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner.debug.xcconfig
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner.modulemap
+Pods/Target Support Files/Pods-FinvoiceScanner/Pods-FinvoiceScanner.release.xcconfig
+Pods/Target Support Files/Protobuf/Protobuf-dummy.m
+Pods/Target Support Files/Protobuf/Protobuf-Info.plist
+Pods/Target Support Files/Protobuf/Protobuf-prefix.pch
+Pods/Target Support Files/Protobuf/Protobuf-umbrella.h
+Pods/Target Support Files/Protobuf/Protobuf.modulemap
+Pods/Target Support Files/Protobuf/Protobuf.xcconfig
